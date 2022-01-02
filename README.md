@@ -89,7 +89,7 @@ plt.plot(cyber)
 
 
     
-![png](output_5_1.png)
+
     
 
 
@@ -108,8 +108,6 @@ plt.plot(y_mean)
 
 
 
-    
-![png](output_6_1.png)
     
 
 
@@ -137,7 +135,7 @@ fig.savefig("cyber.png")
 
 
     
-![png](output_7_0.png)
+![png](cyber.png)
     
 
 
@@ -222,7 +220,6 @@ plt.plot(ransomware)
 
 
     
-![png](output_11_1.png)
     
 
 
@@ -242,7 +239,6 @@ plt.plot(y_mean)
 
 
     
-![png](output_12_1.png)
     
 
 
@@ -270,7 +266,7 @@ fig.savefig("ransomware.png")
 
 
     
-![png](output_13_0.png)
+![png](ransomware.png)
     
 
 
@@ -355,7 +351,6 @@ plt.plot(sea)
 
 
     
-![png](output_17_1.png)
     
 
 
@@ -375,7 +370,6 @@ plt.plot(y_mean)
 
 
     
-![png](output_18_1.png)
     
 
 
@@ -403,7 +397,7 @@ fig.savefig("social_engineering.png")
 
 
     
-![png](output_19_0.png)
+![png](social_engineering.png)
     
 
 
@@ -488,7 +482,6 @@ plt.plot(phish)
 
 
     
-![png](output_23_1.png)
     
 
 
@@ -508,7 +501,6 @@ plt.plot(y_mean)
 
 
     
-![png](output_24_1.png)
     
 
 
@@ -536,6 +528,6 @@ fig.savefig("phishing.png")
 
 
     
-![png](output_25_0.png)
+![png](phishing.png)
     
 
